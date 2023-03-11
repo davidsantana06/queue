@@ -1,6 +1,6 @@
 # Queue
 
-### 1. Resumo
+### 1. Sobre
 <div align="justify">
   (PT-BR) Queue, como o nome sugere, é uma estrutura de dados com as especificidades de uma fila. Sendo assim, é possível adicionar elementos, consultar o início
   da fila e desenfileirar o primeiro elemento. O código foi construído com base na fila, padrão no Python, com a adição de restrições ao seu funcionamento. Ademais,
