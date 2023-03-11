@@ -10,10 +10,11 @@
   of the queue, and dequeue the first element. The code was built based on the queue, standard in Python, with the addition of restrictions on its operation. 
   Moreover, it should be noted that there is also a panel for operations, where all messages are formatted for better visualization.
 </div>
+<br>
 
-### <br>2. Como rodar a aplicação
+### 2. Como rodar
 Para executar a aplicação é necessário, ordenamente:
 1. Instalar o Python (neste caso, optou-se pela versão 3.11);
 2. Baixar os arquivos presentes neste repositório;
 3. Executar o arquivo "main.py";
-4. Após isso, basta iniciar sua interação com o terminal.
+4. Iniciar a interação com o terminal.
